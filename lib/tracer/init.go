@@ -3,7 +3,7 @@ package tracer
 import (
 	"io"
 
-	"github.com/haitham911/lib/logger"
+	"github.com/lib/logger"
 	"github.com/opentracing/opentracing-go"
 	"github.com/uber/jaeger-client-go"
 	jaegercfg "github.com/uber/jaeger-client-go/config"
