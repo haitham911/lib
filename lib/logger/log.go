@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/Cleartoo-Co-LTD/cleartoo-services/user-service/logger/glog"
+	"github.com/haitham911/lib/logger/glog"
 )
 
 const (
