@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/lib/logger/glog"
+	"github.com/haitham911/lib/logger/glog"
 )
 
 const (
