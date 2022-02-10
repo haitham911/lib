@@ -1,4 +1,4 @@
-module github.com/haitham911
+module github.com/haitham911/lib
 
 go 1.17
 
